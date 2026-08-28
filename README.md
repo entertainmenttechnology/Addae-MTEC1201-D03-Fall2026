@@ -9,7 +9,7 @@
 
 **Professor:** Maxwell Addae                 
 * **Email:** Maxwell.Addae06@citytech.cuny.edu    
-* **Office hours:** Wednesdays, 4-6pm via [Zoom](https://us02web.zoom.us/j/2012800456)    (_Reach out by email to schedule meetings outside of listed hours._)
+* **Office hours:** Wednesdays, 5-6pm via [Zoom](https://us02web.zoom.us/j/2012800456)    (_Reach out by email to schedule meetings outside of listed hours._)
 
 
 ## COURSE DESCRIPTION  
@@ -103,7 +103,7 @@ _**All work must be submitted on time. Late assignments will not be accepted.** 
 
 
 ## COURSE SCHEDULE / CALENDAR  
-_The topics and schedule are subject to change as needed. Assignment details and requirements are announced in class and posted to our GitHub each week._  
+_The topics and schedule are subject to change as needed. Assignment details and requirements are announced in class and posted to our GitHub each week. Each assignment will be **due at the start of the following class session**._  
 
 Date | Topic | Technique
 :--- | :--- | :---
