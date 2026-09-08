@@ -7,7 +7,7 @@ _If you are completely new to GitHub, I recommend using GitHub Desktop, a visual
 
 2. **Create a new repository** for this class on your GitHub account online. Title the repository MTEC1201_FirstName (for example: MTEC1201_Max). Select "Public" for repository type. **Check the box to initialize the repository with a README**.  
 
-3. **Send me your GitHub user name via [email](Maxwell.Addae06@CityTech.cuny.edu).**  
+3. **Send me your GitHub user name via email (Maxwell.Addae06@CityTech.cuny.edu).**  
 
 4.  **Download GitHub for Desktop** at: https://desktop.github.com. Install and open the application. Sign in with your Github.com login.
 
