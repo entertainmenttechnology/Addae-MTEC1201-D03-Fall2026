@@ -15,7 +15,7 @@ This will be your final short study before we move into final projects!
 Save the completed sketch as "SS7-[FirstName + Last Initial]" (for example, "SS7-MaxA"). Submit to your Github Class Repo **before the beginning of class on Monday, 11/30**.      
 
 ### **Final Project Proposal**  
-See [final project requirements](https://github.com/entertainmenttechnology/Addae-MTEC1201-D03-Fall2026/blob/main/assignments/FINAL_PROJECT.md) for details. Submit pdf via **email to Maxwell.Addae06@citytech.cuny.edu by Friday 11/30.**  
+See [final project requirements](https://github.com/entertainmenttechnology/Addae-MTEC1201-D03-Fall2026/blob/main/assignments/FINAL_PROJECT.md) for details. Submit pdf via **email to Maxwell.Addae06@citytech.cuny.edu by Monday, 11/30.**  
 
 ### **Familiarize Yourself with the following:**            
     
